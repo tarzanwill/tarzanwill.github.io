@@ -4,7 +4,7 @@ date: 2022-04-26T21:40:25+08:00
 tag: 想法, 源码阅读
 description: 有从事 Java 经历的同学，日常不难看到类似的源码流程分析。
 ---
-![Example image](/static/e806795144684c6c9f15b7c717f4c41d.png)
+![Example image](/e806795144684c6c9f15b7c717f4c41d.png)
 
 ## 一个想法
 在 InteliJ IDEA 里做一个基于 PlantUML 的插件，其每一个流程块都可以索引到源代码的片段或者确切的某一位置。换个描述是所有的文字都可以加上超链接。
