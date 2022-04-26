@@ -2,7 +2,7 @@
 title: "Quick Sort Template"
 date: 2022-04-25T22:18:25+08:00
 tag: 1234, algo
-description: 这里是一些废话
+description: 这里是一些新废话 
 ---
 
 **Quick Sort**
